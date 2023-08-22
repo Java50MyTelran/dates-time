@@ -2,8 +2,6 @@ package telran.time.applications;
 
 import java.time.*;
 import java.time.format.TextStyle;
-import java.time.temporal.ChronoField;
-import java.time.temporal.ChronoUnit;
 import java.util.Locale;
 
 public class PrintCalendar {
